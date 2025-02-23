@@ -1,7 +1,7 @@
-# Sistema de Recomendacao de Produtos Baseado em Imagens
+# Sistema de Recomendação de Produtos Baseado em Imagens
 
 ## Descricao
-Este projeto implementa um sistema de recomendação para um e-commerce, que sugere produtos visualmente similares com base em imagens. Ele utiliza um modelo pre-treinado de ResNet50 para extracao de features das imagens e a metrica de similaridade cosseno para identificar produtos semelhantes.
+Este projeto implementa um sistema de recomendação para um e-commerce, que sugere produtos visualmente similares com base em imagens. Ele utiliza um modelo pré-treinado de ResNet50 para extração de features das imagens e a métrica de similaridade cosseno para identificar produtos semelhantes.
 
 ## Dataset Utilizado
 O dataset [E-commerce Products Image Dataset](https://www.kaggle.com/datasets/sunnykusawa/ecommerce-products-image-dataset) foi utilizado para treinamento e foi obtido do Kaggle.
